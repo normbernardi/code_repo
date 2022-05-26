@@ -1,0 +1,3 @@
+This is a test file. 12345 !@#$%
+ It can also do multiple lines!
+ How c001 i5 t4@t?!
